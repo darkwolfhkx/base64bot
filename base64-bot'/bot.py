@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 # Environment variable se token lein
 TOKEN = os.environ.get('BOT_TOKEN')
 if not TOKEN:
-    raise ValueError("BOT_TOKEN environment variable set nahi hai!")
+    raise ValueError("8636237615:AAEzJdupTzvC1YTccpRz_0Hez7YGzLEbEho")
 
 PORT = int(os.environ.get('PORT', 8080))
 
